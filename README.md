@@ -1,4 +1,4 @@
-# emacs-tree-sitter-queries
+# tree-sitter-queries
 > Tree-Sitter queries use with [jcs-emacs](https://github.com/jcs090218/jcs-emacs)
 
 This repository contains custom higlight queries I desire to use
