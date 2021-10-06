@@ -157,6 +157,8 @@
   "let"
 ] @keyword
 
+;; Preprocessor
+(preprocessor_directive) @function.macro
 
 ;; Linq
 (from_clause (identifier) @variable)
