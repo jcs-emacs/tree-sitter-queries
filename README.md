@@ -1,3 +1,6 @@
+<img align="right" src="https://raw.githubusercontent.com/jcs-emacs/jcs-elpa/master/docs/etc/sink_black.png#gh-light-mode-only" width="25%"/>
+<img align="right" src="https://raw.githubusercontent.com/jcs-emacs/jcs-elpa/master/docs/etc/sink_white.png#gh-dark-mode-only" width="25%"/>
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 # tree-sitter-queries
