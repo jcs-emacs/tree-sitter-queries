@@ -1,5 +1,8 @@
-<img align="right" src="https://raw.githubusercontent.com/jcs-emacs/jcs-elpa/master/docs/etc/sink_black.png#gh-light-mode-only" width="25%"/>
-<img align="right" src="https://raw.githubusercontent.com/jcs-emacs/jcs-elpa/master/docs/etc/sink_white.png#gh-dark-mode-only" width="25%"/>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jcs-emacs/jcs-elpa/master/docs/etc/sink/black.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jcs-emacs/jcs-elpa/master/docs/etc/sink/white.png">
+  <img width="25%" align="right" src="">
+</picture>
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
