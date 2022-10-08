@@ -1,10 +1,11 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+<a href="#"><img align="right" src="https://raw.githubusercontent.com/jcs-emacs/badges/161a8e892ac7a9e90cc8add538e49025ebb66b71/others/built-with/dark.svg" alt="Built with"></a>
+
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jcs-emacs/jcs-elpa/master/docs/etc/logo/light/sink.png">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jcs-emacs/jcs-elpa/master/docs/etc/logo/dark/sink.png">
   <img width="25%" align="right" src="">
 </picture>
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 # tree-sitter-queries
 > Tree-Sitter queries use with [jcs-emacs](https://github.com/jcs090218/jcs-emacs)
