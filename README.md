@@ -18,7 +18,7 @@ This is will only be use to add queries that does not exists in [tree-sitter-lan
 If it does exist in the `tree-sitter-langs` package; then the entire folder
 will be **replaced** with queries under this repository.
 
-## Contribute
+## 🛠️ Contribute
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 [![Donate on paypal](https://img.shields.io/badge/paypal-donate-1?logo=paypal&color=blue)](https://www.paypal.me/jcs090218)
@@ -27,3 +27,20 @@ will be **replaced** with queries under this repository.
 If you would like to contribute to this project, you may either clone and make pull
 requests to this repository. Or you can clone the project and establish your own
 branch of this tool. Any methods are welcome!
+
+## ⚜️ License
+
+This program is free software; you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <https://www.gnu.org/licenses/>.
+
+See [`LICENSE`](./LICENSE.txt) for details.
